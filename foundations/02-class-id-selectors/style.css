@@ -1,0 +1,19 @@
+.oddNumElem {
+    background-color: rgb(248, 112, 112);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#secElem {
+    font-size: 36px;
+    color: blue;
+}
+
+.thirdElem{
+    font-size: 24px;
+}
+
+#fourElem{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(104, 250, 104);
+}
